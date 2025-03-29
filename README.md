@@ -14,5 +14,5 @@ Passo 8: apos baixar os jogos escolhidos, abriremos na pasta de download e desco
 Passo 9: após descompactar, vamos criar uma pasta escrito games dentro da pasta do emulador ( no mesmo lugar onde colocamos a pasta bios, por exemplo), assim localizamos a pasta descompactadas dos jogos, vamos recortar e colar dentro da pasta games. ( detalhe que cada jogo baixado deve ser feito esse processo separadamente um por um )
 Passo 10: apos isso vamos abrir o duckstation e apertar na opção de localizar os jogos, assim selecionando a pasta game, se tudo estiver no formato correto e descompactado o duckstation já vai localizar e ler os jogos.. 
 
-Lembrando que é um passo a passo para uso particular de uma coisa da minha cabeça para que sempre que eu quiser refazer a instalação eu consulte isso para não me esquecer.. Mas se também te ajudar, vai ser ótimo.. As fontes são chat gpt e vozes da minha cabeça 
+Lembrando que é um passo a passo para uso particular de uma coisa da minha cabeça para que sempre que eu quiser refazer a instalação, eu apenas consulte isso para não me esquecer.. Mas se também te ajudar, vai ser ótimo.. As fontes são chat gpt e vozes da minha cabeça 
 
